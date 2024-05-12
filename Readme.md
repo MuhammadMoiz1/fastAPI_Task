@@ -46,7 +46,6 @@ Query parameter:
 Update user details by ID. Returns HTTP 200 OK on success.
 
 ```json
-Copy code
 {
   "name": "string"
 }
